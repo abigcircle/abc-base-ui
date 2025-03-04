@@ -1,4 +1,4 @@
-# Your Package Name
+# ABC Base UI
 
 A brief description of your package and its purpose.
 
@@ -15,10 +15,8 @@ A brief description of your package and its purpose.
 To use this package, you can install it directly from the GitHub repository. Run the following command:
 
 ```bash
-npm install git+https://github.com/username/repo-name.git
+npm install git+https://github.com/abigcircle/abc-base-ui.git
 ```
-
-Replace `username` with your GitHub username and `repo-name` with the name of your repository.
 
 ### Note for Private Repositories
 
