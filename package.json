@@ -1,7 +1,6 @@
 {
   "name": "@abigcircle/base-ui",
   "version": "0.0.1",
-  "private": true,
   "type": "module",
   "main": "./dist/abc-base-ui.umd.js",
   "module": "./dist/abc-base-ui.esm.js",
